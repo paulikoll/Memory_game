@@ -104,21 +104,6 @@ h2 {
     font-size: 33px;
 }
 
-.deck .card.match {
-    cursor: default;
-    background: black;
-    font-size: 33px;
-}
-.deck .card.good {
-    cursor: default;
-    font-size: 33px;
-}
-
-.deck .card.notgood {
-    cursor: default;
-    font-size: 33px;
-}
-
 /*
  * Styles for the Score Panel
  */
