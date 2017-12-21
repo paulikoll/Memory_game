@@ -1,6 +1,6 @@
 // Create a list that holds all of your images
 // Duplicated images
-var images = ["diamond","paper-plane-o","anchor","bolt","leaf","bicycle","diamond","paper-plane-o","anchor","bolt","leaf","bicycle"];
+var images = ["diamond","paper-plane-o","anchor","bolt","leaf","bicycle","cube", "diamond","paper-plane-o","anchor","cube","bolt","leaf","bicycle","bomb", "bomb"];
 
 // define used variables
 var cardFace;
